@@ -11,8 +11,8 @@ import os
 
 # ====== CONFIG ======
 proxy = "67.43.236.19:3527"   # Optional proxy (remove if not working)
-email = "rizwan+dev@expedey.com"     # apna LinkedIn email likho
-password = "Hello123@"  # apna LinkedIn password likho
+email = "" 
+password = ""
 chromedriver_path = r"C:/Users/PMLS/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe"
 # ====================
 
